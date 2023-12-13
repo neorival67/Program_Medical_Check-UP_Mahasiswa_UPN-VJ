@@ -5,4 +5,4 @@ Program ini bertujuan untuk menawarkan solusi untuk mengelola data pasien mahasi
 ### Preview Progra
 untuk melihat programnya anda bisa klik
 
-`main.c`
+[Medical_Check-UP_UPN-VJ](https://replit.com/@neorival67/Latian-Seq-and-bin-Search)
