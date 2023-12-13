@@ -7,5 +7,7 @@ untuk melihat programnya anda bisa klik [Medical_Check-UP_UPN-VJ](https://replit
 
 ### Manfaat Program ini
 •	Pendaftaran Pasien yang Efisien: Program ini membantu petugas pendaftaran mencatat data pasien dengan lebih mudah dan lebih efisien.
+
 •	Akses Informasi yang Cepat: Fitur pencarian dan pengurutan memungkinkan data pasien diakses dengan cepat dan mudah.
+
 •	Optimalisasi Kapasitas: Program memiliki batasan maksimum jumlah pasien yang dapat disimpan. Ini membantu mengoptimalkan pengelolaan data dan kapasitas penyimpanan.
